@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+langchain-community
+chromadb
+tiktoken
+duckduckgo-search
+beautifulsoup4
+openai
+langchain-openai
